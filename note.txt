@@ -1,0 +1,4 @@
+git clone https://github.com/AliA110/-smart_trush.git
+git add .
+git commit -m "3 commit"
+git push origin
